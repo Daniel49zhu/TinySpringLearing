@@ -1,0 +1,4 @@
+rootProject.name = 'tiny_spring'
+include 'tiny_spring_step1_container_register_and_get'
+include 'tiny_spring_step2_abstract_beanfactory_and_do_bean_initilizing_in_it'
+
