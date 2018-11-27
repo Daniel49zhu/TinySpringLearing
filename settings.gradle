@@ -1,4 +1,6 @@
 rootProject.name = 'tiny_spring'
 include 'tiny_spring_step1_container_register_and_get'
 include 'tiny_spring_step2_abstract_beanfactory_and_do_bean_initilizing_in_it'
+include 'tiny_spring_step3_inject_bean_with_property'
+include 'tiny_spring_step4_config_beanfactory_with_xml'
 

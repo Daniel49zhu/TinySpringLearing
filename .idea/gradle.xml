@@ -11,6 +11,8 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/tiny_spring_step1_container_register_and_get" />
             <option value="$PROJECT_DIR$/tiny_spring_step2_abstract_beanfactory_and_do_bean_initilizing_in_it" />
+            <option value="$PROJECT_DIR$/tiny_spring_step3_inject_bean_with_property" />
+            <option value="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />
