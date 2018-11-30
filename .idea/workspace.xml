@@ -1,31 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c09130ee-086c-4e21-b4a5-c692bd0843c4" name="Default Changelist" comment="step3">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/AbstractBeanDefinitionReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/BeanDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/BeanDefinitionReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/PropertyValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/PropertyValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/factory/AbstractBeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/factory/AutowireCapableBeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/factory/BeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/io/Resource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/io/ResourceLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/io/UrlResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/xml/XmlBeanDefinitionReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/test/java/us/codecraft/tinyioc/BeanFactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/test/java/us/codecraft/tinyioc/HelloWorldService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/test/java/us/codecraft/tinyioc/io/TestResourceLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/test/java/us/codecraft/tinyioc/xml/XmlBeanDefinitionReaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/test/resources/tinyioc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="c09130ee-086c-4e21-b4a5-c692bd0843c4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -74,14 +51,16 @@
     <session id="-1743913398">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.56" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -106,7 +85,7 @@
         <counts>
           <entry key="gradle" value="61" />
           <entry key="java" value="5218" />
-          <entry key="txt" value="51" />
+          <entry key="txt" value="58" />
           <entry key="xml" value="63" />
         </counts>
       </usages-collector>
@@ -114,7 +93,7 @@
         <counts>
           <entry key="Groovy" value="61" />
           <entry key="JAVA" value="5218" />
-          <entry key="PLAIN_TEXT" value="51" />
+          <entry key="PLAIN_TEXT" value="58" />
           <entry key="XML" value="63" />
         </counts>
       </usages-collector>
@@ -125,12 +104,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/xml/XmlBeanDefinitionReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
+            <state relative-caret-position="225">
               <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#321#322#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -139,8 +116,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/test/java/us/codecraft/tinyioc/BeanFactoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+            <state relative-caret-position="498">
+              <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -160,7 +137,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/factory/AbstractBeanFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
+            <state relative-caret-position="225">
               <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -174,7 +151,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/AbstractBeanDefinitionReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
+            <state relative-caret-position="100">
               <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -190,7 +167,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/test/java/us/codecraft/tinyioc/xml/XmlBeanDefinitionReaderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
+            <state relative-caret-position="250">
               <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -948,11 +925,11 @@
         <entry key="$PROJECT_DIR$" value="10799174709779" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="1080406968" />
-        <entry key="$PROJECT_DIR$/settings.gradle" value="2052042508" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="2244000208" />
         <entry key="$PROJECT_DIR$/tiny_spring_step1_container_register_and_get/build.gradle" value="0" />
         <entry key="$PROJECT_DIR$/tiny_spring_step2_abstract_beanfactory_and_do_bean_initilizing_in_it/build.gradle" value="0" />
         <entry key="$PROJECT_DIR$/tiny_spring_step3_inject_bean_with_property/build.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/build.gradle" value="1647823623" />
+        <entry key="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/build.gradle" value="0" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1148,10 +1125,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="288" />
-    <option name="y" value="-12" />
-    <option name="width" value="1377" />
-    <option name="height" value="739" />
+    <option name="x" value="1912" />
+    <option name="y" value="294" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -1159,6 +1136,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1166,253 +1145,17 @@
               <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
-            <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step3_inject_bean_with_property" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step3_inject_bean_with_property" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step3_inject_bean_with_property" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step3_inject_bean_with_property" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step3_inject_bean_with_property" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="us" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step3_inject_bean_with_property" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="us" type="462c0819:PsiDirectoryNode" />
-              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step3_inject_bean_with_property" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="us" type="462c0819:PsiDirectoryNode" />
-              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
-              <item name="tinyioc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step3_inject_bean_with_property" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step3_inject_bean_with_property" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step3_inject_bean_with_property" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="us" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step3_inject_bean_with_property" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="us" type="462c0819:PsiDirectoryNode" />
-              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step3_inject_bean_with_property" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="us" type="462c0819:PsiDirectoryNode" />
-              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
-              <item name="tinyioc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step4_config_beanfactory_with_xml" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step4_config_beanfactory_with_xml" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step4_config_beanfactory_with_xml" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step4_config_beanfactory_with_xml" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step4_config_beanfactory_with_xml" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="us" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step4_config_beanfactory_with_xml" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="us" type="462c0819:PsiDirectoryNode" />
-              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step4_config_beanfactory_with_xml" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="us" type="462c0819:PsiDirectoryNode" />
-              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
-              <item name="tinyioc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step4_config_beanfactory_with_xml" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="us" type="462c0819:PsiDirectoryNode" />
-              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
-              <item name="tinyioc" type="462c0819:PsiDirectoryNode" />
-              <item name="xml" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step4_config_beanfactory_with_xml" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step4_config_beanfactory_with_xml" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step4_config_beanfactory_with_xml" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="us" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step4_config_beanfactory_with_xml" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="us" type="462c0819:PsiDirectoryNode" />
-              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step4_config_beanfactory_with_xml" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="us" type="462c0819:PsiDirectoryNode" />
-              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
-              <item name="tinyioc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step4_config_beanfactory_with_xml" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="us" type="462c0819:PsiDirectoryNode" />
-              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
-              <item name="tinyioc" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step4_config_beanfactory_with_xml" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="AbstractBeanFactory&#9;PSI&#9;JAVA://us.codecraft.tinyioc.factory.AbstractBeanFactory" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543335551741" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543584960545" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/test/java/us/codecraft/tinyioc" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -1538,7 +1281,6 @@
     <list>
       <item itemvalue="JUnit.BeanFactoryTest.test" />
       <item itemvalue="JUnit.BeanFactoryTest.test (1)" />
-      <item itemvalue="JUnit.BeanFactoryTest.test (2)" />
       <item itemvalue="JUnit.TestResourceLoader.test" />
       <item itemvalue="JUnit.XmlBeanDefinitionReaderTest.test" />
     </list>
@@ -1547,7 +1289,6 @@
         <item itemvalue="JUnit.BeanFactoryTest.test (1)" />
         <item itemvalue="JUnit.XmlBeanDefinitionReaderTest.test" />
         <item itemvalue="JUnit.TestResourceLoader.test" />
-        <item itemvalue="JUnit.BeanFactoryTest.test (2)" />
         <item itemvalue="JUnit.BeanFactoryTest.test (1)" />
       </list>
     </recent_temporary>
@@ -1567,7 +1308,9 @@
       <workItem from="1543156563654" duration="3943000" />
       <workItem from="1543229580861" duration="605000" />
       <workItem from="1543242182257" duration="3548000" />
-      <workItem from="1543327822882" duration="6381000" />
+      <workItem from="1543327822882" duration="6486000" />
+      <workItem from="1543402224488" duration="18000" />
+      <workItem from="1543505623877" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="tiny_spring copy to huangyihua">
       <created>1543157023253</created>
@@ -1611,7 +1354,21 @@
       <option name="project" value="LOCAL" />
       <updated>1543247171075</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="step4">
+      <created>1543335548573</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1543335548573</updated>
+    </task>
+    <task id="LOCAL-00008" summary="config">
+      <created>1543335584423</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1543335584423</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1647,13 +1404,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15285000" />
+    <option name="totallyTimeSpent" value="15417000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1977612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20202559" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1662,7 +1418,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3690078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3690078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.22296543" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1696,7 +1452,9 @@
     <MESSAGE value="step1" />
     <MESSAGE value="step2" />
     <MESSAGE value="step3" />
-    <option name="LAST_COMMIT_MESSAGE" value="step3" />
+    <MESSAGE value="step4" />
+    <MESSAGE value="config" />
+    <option name="LAST_COMMIT_MESSAGE" value="config" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1845,9 +1603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1900,12 +1655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1913,22 +1662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-            <element signature="e#580#581#0" expanded="true" />
-            <element signature="e#737#738#0" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
-            <element signature="e#842#843#0" expanded="true" />
-            <element signature="e#894#895#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1995,9 +1728,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="15" column="87" lean-forward="true" selection-start-line="15" selection-start-column="87" selection-end-line="15" selection-end-column="87" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2026,9 +1756,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2043,10 +1770,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="63" selection-start-line="63" selection-end-line="63" />
-          <folding>
-            <element signature="e#746#889#0" expanded="true" />
-            <element signature="e#888#889#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2078,57 +1801,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/test/resources/tinyioc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="120" selection-start-line="8" selection-start-column="120" selection-end-line="8" selection-end-column="120" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/test/java/us/codecraft/tinyioc/xml/XmlBeanDefinitionReaderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/AbstractBeanDefinitionReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/xml/XmlBeanDefinitionReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
+        <state relative-caret-position="225">
           <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/factory/AbstractBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2140,10 +1818,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/factory/AbstractBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/AbstractBeanDefinitionReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/test/java/us/codecraft/tinyioc/xml/XmlBeanDefinitionReaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/test/resources/tinyioc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="120" selection-start-line="8" selection-start-column="120" selection-end-line="8" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/test/java/us/codecraft/tinyioc/BeanFactoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+        <state relative-caret-position="498">
+          <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
