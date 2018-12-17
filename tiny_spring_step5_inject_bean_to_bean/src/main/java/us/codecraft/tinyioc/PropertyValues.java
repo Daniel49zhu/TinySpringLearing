@@ -14,7 +14,7 @@ public class PropertyValues {
         this.propertyValueList.add(pv);
     }
 
-    public List<PropertyValue> getPropertyValueList() {
+    public List<PropertyValue> getPropertyValues() {
         return propertyValueList;
     }
 }
