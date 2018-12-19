@@ -43,6 +43,7 @@ public class BeanFactoryTest {
         }
 
         // 3.初始化bean
+        //与上面不同 在此处一次性将beanDefinitionMap中的所有bean对象建立
         beanFactory.preInstantiateSingletons();
 
         // 4.获取bean
