@@ -4,4 +4,5 @@ include 'tiny_spring_step2_abstract_beanfactory_and_do_bean_initilizing_in_it'
 include 'tiny_spring_step3_inject_bean_with_property'
 include 'tiny_spring_step4_config_beanfactory_with_xml'
 include 'tiny_spring_step5_inject_bean_to_bean'
+include 'tiny_spring_step6_invite_application_context'
 
