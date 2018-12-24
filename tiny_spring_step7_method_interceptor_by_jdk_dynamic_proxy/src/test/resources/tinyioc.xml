@@ -12,7 +12,7 @@
     </bean>
 
     <bean name="helloWorldService" class="us.codecraft.tinyioc.HelloWorldServiceImpl">
-        <property name="text" value="Hello World!"></property>
+        <property name="text" value="Hello World! --from step7"></property>
         <property name="outputService" ref="outputService"></property>
     </bean>
 </beans>
