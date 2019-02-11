@@ -12,6 +12,8 @@ allprojects {
 
     dependencies {
         testCompile group: 'junit', name: 'junit', version: '4.12'
+        // https://mvnrepository.com/artifact/aopalliance/aopalliance
+        compile group: 'aopalliance', name: 'aopalliance', version: '1.0' 
     }
 }
 
