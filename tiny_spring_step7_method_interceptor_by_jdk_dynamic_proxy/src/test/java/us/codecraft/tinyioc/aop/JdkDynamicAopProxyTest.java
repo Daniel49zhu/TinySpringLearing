@@ -5,7 +5,6 @@ import us.codecraft.tinyioc.HelloWorldService;
 import us.codecraft.tinyioc.context.ApplicationContext;
 import us.codecraft.tinyioc.context.ClassPathXmlApplicationContext;
 
-import java.sql.Time;
 
 public class JdkDynamicAopProxyTest {
 
