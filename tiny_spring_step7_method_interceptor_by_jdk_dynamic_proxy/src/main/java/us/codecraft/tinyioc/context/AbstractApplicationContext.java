@@ -2,7 +2,9 @@ package us.codecraft.tinyioc.context;
 
 import us.codecraft.tinyioc.beans.factory.AbstractBeanFactory;
 
-
+/**
+ * @author yihua.huang@dianping.com
+ */
 public abstract class AbstractApplicationContext implements ApplicationContext {
     protected AbstractBeanFactory beanFactory;
 

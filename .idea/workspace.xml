@@ -2,11 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c09130ee-086c-4e21-b4a5-c692bd0843c4" name="Default Changelist" comment="step5">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/TinySpringLearing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/BeanReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/BeanReference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/aop/AdvisedSupport.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/aop/AdvisedSupport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/aop/AopProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/aop/AopProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/aop/JdkDynamicAopProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/aop/JdkDynamicAopProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/aop/ReflectiveMethodInvocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/aop/ReflectiveMethodInvocation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/aop/TargetSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/aop/TargetSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/AbstractBeanDefinitionReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/AbstractBeanDefinitionReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/BeanDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/BeanDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/BeanDefinitionReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/BeanDefinitionReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/PropertyValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/PropertyValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/PropertyValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/PropertyValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/factory/AbstractBeanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/factory/AbstractBeanFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/factory/AutowireCapableBeanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/factory/AutowireCapableBeanFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/factory/BeanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/factory/BeanFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/io/Resource.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/io/Resource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/io/ResourceLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/io/ResourceLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/io/UrlResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/io/UrlResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/xml/XmlBeanDefinitionReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/xml/XmlBeanDefinitionReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/context/AbstractApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/context/AbstractApplicationContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/context/ApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/context/ApplicationContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/context/ClassPathXmlApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/context/ClassPathXmlApplicationContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/BeanFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/BeanFactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/HelloWorldService.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/HelloWorldService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/HelloWorldServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/HelloWorldServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/OutputService.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/OutputService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/aop/JdkDynamicAopProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/aop/JdkDynamicAopProxyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/aop/TimerInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/aop/TimerInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/beans/io/ResourceLoaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/beans/io/ResourceLoaderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/beans/xml/XmlBeanDefinitionReaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/beans/xml/XmlBeanDefinitionReaderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/context/ApplicationContextTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/context/ApplicationContextTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/resources/tinyioc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/resources/tinyioc.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -29,11 +61,17 @@
     <ignored path="$PROJECT_DIR$/tiny_spring_step6_invite_application_context/.gradle/" />
     <ignored path="$PROJECT_DIR$/tiny_spring_step6_invite_application_context/build/" />
     <ignored path="$PROJECT_DIR$/tiny_spring_step6_invite_application_context/out/" />
+    <ignored path="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/.gradle/" />
+    <ignored path="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -58,38 +96,123 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tiny_spring_step6_invite_application_context/src/test/java/us/codecraft/tinyioc/OutputService.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/context/ApplicationContextTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="75" selection-start-line="12" selection-start-column="75" selection-end-line="12" selection-end-column="75" />
+            <state relative-caret-position="325">
+              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tiny_spring_step6_invite_application_context/src/test/java/us/codecraft/tinyioc/HelloWorldService.java">
+        <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/aop/AopProxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="75">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/aop/JdkDynamicAopProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
               <folding>
-                <element signature="e#166#167#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#243#244#0" expanded="true" />
-                <element signature="e#275#276#0" expanded="true" />
-                <element signature="e#340#341#0" expanded="true" />
-                <element signature="e#390#391#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tiny_spring_step6_invite_application_context/src/test/java/us/codecraft/tinyioc/BeanFactoryTest.java">
+        <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/aop/TimerInterceptor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+            <state relative-caret-position="175">
+              <caret line="8" column="58" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/aop/JdkDynamicAopProxyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="31" column="71" lean-forward="true" selection-start-line="31" selection-start-column="71" selection-end-line="31" selection-end-column="100" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/resources/tinyioc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/aop/AdvisedSupport.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#394#395#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#489#490#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/aop/TargetSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+              <folding>
+                <element signature="e#292#293#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#359#360#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/aop/ReflectiveMethodInvocation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#464#465#0" expanded="true" />
+                <element signature="e#491#492#0" expanded="true" />
+                <element signature="e#648#649#0" expanded="true" />
+                <element signature="e#677#678#0" expanded="true" />
+                <element signature="e#738#739#0" expanded="true" />
+                <element signature="e#767#768#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/reflect/InvocationHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -108,6 +231,7 @@
     <findStrings>
       <find>Map&lt;String,BeanDefinition&gt;</find>
       <find>getType</find>
+      <find>java</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -116,39 +240,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tiny_spring_step3_inject_bean_with_property/src/main/java/us/codecraft/tinyioc/PropertyValue.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step3_inject_bean_with_property/src/main/java/us/codecraft/tinyioc/PropertyValues.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step3_inject_bean_with_property/src/main/java/us/codecraft/tinyioc/BeanDefinition.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step3_inject_bean_with_property/src/main/java/us/codecraft/tinyioc/factory/BeanFactory.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step3_inject_bean_with_property/src/main/java/us/codecraft/tinyioc/factory/AbstractBeanFactory.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step3_inject_bean_with_property/src/main/java/us/codecraft/tinyioc/factory/AutowireCapableBeanFactory.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step3_inject_bean_with_property/src/test/java/us/codecraft/tinyioc/HelloWorldService.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step3_inject_bean_with_property/src/test/java/us/codecraft/tinyioc/BeanFactoryTest.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/build.gradle" />
-        <option value="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/PropertyValue.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/PropertyValues.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/BeanDefinition.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/io/Resource.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/io/UrlResource.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/io/ResourceLoader.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/test/java/us/codecraft/tinyioc/io/TestResourceLoader.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/BeanDefinitionReader.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/AbstractBeanDefinitionReader.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/XmlBeanDefinitionReader.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/factory/BeanFactory.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/factory/AbstractBeanFactory.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/factory/AutowireCapableBeanFactory.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/test/java/HelloWorldService.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/test/resources/tinyioc.xml" />
-        <option value="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/xml/XmlBeanDefinitionReader.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/test/java/us/codecraft/tinyioc/xml/XmlBeanDefinitionReaderTest.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/test/java/us/codecraft/tinyioc/BeanFactoryTest.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step5_inject_bean_to_bean/build.gradle" />
-        <option value="$PROJECT_DIR$/tiny_spring_step5_inject_bean_to_bean/src/main/java/us/codecraft/tinyioc/BeanReference.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step5_inject_bean_to_bean/src/main/java/us/codecraft/tinyioc/PropertyValue.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step5_inject_bean_to_bean/src/main/java/us/codecraft/tinyioc/BeanDefinition.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step5_inject_bean_to_bean/src/main/java/us/codecraft/tinyioc/io/Resource.java" />
-        <option value="$PROJECT_DIR$/tiny_spring_step5_inject_bean_to_bean/src/main/java/us/codecraft/tinyioc/io/ResourceLoader.java" />
         <option value="$PROJECT_DIR$/tiny_spring_step5_inject_bean_to_bean/src/test/resources/tinyioc.xml" />
         <option value="$PROJECT_DIR$/tiny_spring_step5_inject_bean_to_bean/src/test/java/us/codecraft/tinyioc/io/ResourceLoaderTest.java" />
         <option value="$PROJECT_DIR$/tiny_spring_step5_inject_bean_to_bean/src/main/java/us/codecraft/tinyioc/io/UrlResource.java" />
@@ -167,6 +258,39 @@
         <option value="$PROJECT_DIR$/tiny_spring_step6_invite_application_context/src/test/java/us/codecraft/tinyioc/HelloWorldService.java" />
         <option value="$PROJECT_DIR$/tiny_spring_step6_invite_application_context/src/test/resources/tinyioc.xml" />
         <option value="$PROJECT_DIR$/tiny_spring_step6_invite_application_context/src/main/java/us/codecraft/tinyioc/BeanReference.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/README.md" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/PropertyValue.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/PropertyValues.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/BeanDefinitionReader.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/BeanDefinition.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/AbstractBeanDefinitionReader.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/Resource.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/io/ResourceLoader.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/io/UrlResource.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/BeanFactory.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/BeanFactory.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/factory/AbstractBeanFactory.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/factory/AutowireCapableBeanFactory.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/BeanReference.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/resources/tinyioc.xml" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/HelloWorldService.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/HelloWorldServiceImpl.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/OutputService.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/BeanFactoryTest.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/XmlBeanDefinitionReader.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/ResourceLoaderTest.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/XmlBeanDefinitionReaderTest.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/ApplicationContext.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/context/AbstractApplicationContext.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/context/ClassPathXmlApplicationContext.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/ApplicationContextTest.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/aop/AopProxy.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/aop/TargetSource.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/aop/AdvisedSupport.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/aop/JdkDynamicAopProxy.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/aop/ReflectiveMethodInvocation.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/TimerInterceptor.java" />
+        <option value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/JdkDynamicAopProxyTest.java" />
       </list>
     </option>
   </component>
@@ -184,53 +308,52 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="TinySpringLearing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TinySpringLearing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step6_invite_application_context" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="TinySpringLearing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TinySpringLearing" type="462c0819:PsiDirectoryNode" />
+              <item name="tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step6_invite_application_context" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="TinySpringLearing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TinySpringLearing" type="462c0819:PsiDirectoryNode" />
+              <item name="tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step6_invite_application_context" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="TinySpringLearing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TinySpringLearing" type="462c0819:PsiDirectoryNode" />
+              <item name="tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step6_invite_application_context" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="TinySpringLearing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TinySpringLearing" type="462c0819:PsiDirectoryNode" />
+              <item name="tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step6_invite_application_context" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="TinySpringLearing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TinySpringLearing" type="462c0819:PsiDirectoryNode" />
+              <item name="tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="us" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step6_invite_application_context" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="TinySpringLearing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TinySpringLearing" type="462c0819:PsiDirectoryNode" />
+              <item name="tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -238,9 +361,9 @@
               <item name="codecraft" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step6_invite_application_context" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="TinySpringLearing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TinySpringLearing" type="462c0819:PsiDirectoryNode" />
+              <item name="tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -249,41 +372,125 @@
               <item name="tinyioc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step6_invite_application_context" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="TinySpringLearing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TinySpringLearing" type="462c0819:PsiDirectoryNode" />
+              <item name="tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="us" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="tinyioc" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TinySpringLearing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TinySpringLearing" type="462c0819:PsiDirectoryNode" />
+              <item name="tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step6_invite_application_context" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="TinySpringLearing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TinySpringLearing" type="462c0819:PsiDirectoryNode" />
+              <item name="tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="tiny_spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiny_spring" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="tiny_spring_step6_invite_application_context" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="TinySpringLearing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TinySpringLearing" type="462c0819:PsiDirectoryNode" />
+              <item name="tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="us" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TinySpringLearing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TinySpringLearing" type="462c0819:PsiDirectoryNode" />
+              <item name="tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="us" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TinySpringLearing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TinySpringLearing" type="462c0819:PsiDirectoryNode" />
+              <item name="tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="us" type="462c0819:PsiDirectoryNode" />
+              <item name="codecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="tinyioc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TinySpringLearing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="TinySpringLearing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: aopalliance:aopalliance:1.0" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="TinySpringLearing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: aopalliance:aopalliance:1.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="aopalliance-1.0.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TinySpringLearing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: aopalliance:aopalliance:1.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="aopalliance-1.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TinySpringLearing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: aopalliance:aopalliance:1.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="aopalliance-1.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aopalliance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TinySpringLearing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: aopalliance:aopalliance:1.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="aopalliance-1.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aopalliance" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TinySpringLearing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: aopalliance:aopalliance:1.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="aopalliance-1.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aopalliance" type="462c0819:PsiDirectoryNode" />
+              <item name="intercept" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="AbstractBeanFactory&#9;PSI&#9;JAVA://us.codecraft.tinyioc.factory.AbstractBeanFactory" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545321250472" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/test/java/us/codecraft/tinyioc" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/aop" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -312,54 +519,106 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BeanFactoryTest.testLazy">
-    <configuration name="BeanFactoryTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tiny_spring_step2_abstract_beanfactory_and_do_bean_initilizing_in_it_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="us.codecraft.tinyioc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="us.codecraft.tinyioc" />
-      <option name="MAIN_CLASS_NAME" value="us.codecraft.tinyioc.BeanFactoryTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+  <component name="RunManager" selected="Gradle.JdkDynamicAopProxyTest.testInterceptor">
+    <configuration name="ApplicationContextTest.test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;us.codecraft.tinyioc.context.ApplicationContextTest.test&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy:cleanTest" />
+            <option value=":tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
-    <configuration name="BeanFactoryTest.testLazy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tiny_spring_step5_inject_bean_to_bean_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="us.codecraft.tinyioc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="us.codecraft.tinyioc" />
-      <option name="MAIN_CLASS_NAME" value="us.codecraft.tinyioc.BeanFactoryTest" />
-      <option name="METHOD_NAME" value="testLazy" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="BeanFactoryTest.testLazy" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;us.codecraft.tinyioc.BeanFactoryTest.testLazy&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy:cleanTest" />
+            <option value=":tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
-    <configuration name="BeanFactoryTest.testPreInstantiate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tiny_spring_step5_inject_bean_to_bean_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="us.codecraft.tinyioc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="us.codecraft.tinyioc" />
-      <option name="MAIN_CLASS_NAME" value="us.codecraft.tinyioc.BeanFactoryTest" />
-      <option name="METHOD_NAME" value="testPreInstantiate" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="BeanFactoryTest.testPreInstantiate" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;us.codecraft.tinyioc.BeanFactoryTest.testPreInstantiate&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy:cleanTest" />
+            <option value=":tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="JdkDynamicAopProxyTest.testInterceptor" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;us.codecraft.tinyioc.aop.JdkDynamicAopProxyTest.testInterceptor&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy:cleanTest" />
+            <option value=":tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ResourceLoaderTest.test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;us.codecraft.tinyioc.beans.io.ResourceLoaderTest.test&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy:cleanTest" />
+            <option value=":tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="BeanFactoryTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tiny_spring_step3_inject_bean_with_property_test" />
@@ -371,54 +630,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="us.codecraft.tinyioc" />
       <option name="MAIN_CLASS_NAME" value="us.codecraft.tinyioc.BeanFactoryTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ResourceLoaderTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tiny_spring_step5_inject_bean_to_bean_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="us.codecraft.tinyioc.io.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="us.codecraft.tinyioc.io" />
-      <option name="MAIN_CLASS_NAME" value="us.codecraft.tinyioc.io.ResourceLoaderTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestResourceLoader.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tiny_spring_step4_config_beanfactory_with_xml_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="us.codecraft.tinyioc.io.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="us.codecraft.tinyioc.io" />
-      <option name="MAIN_CLASS_NAME" value="us.codecraft.tinyioc.io.TestResourceLoader" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="XmlBeanDefinitionReaderTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tiny_spring_step4_config_beanfactory_with_xml_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="us.codecraft.tinyioc.xml.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="us.codecraft.tinyioc.xml" />
-      <option name="MAIN_CLASS_NAME" value="us.codecraft.tinyioc.xml.XmlBeanDefinitionReaderTest" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -473,20 +684,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.BeanFactoryTest.test" />
-      <item itemvalue="JUnit.TestResourceLoader.test" />
-      <item itemvalue="JUnit.XmlBeanDefinitionReaderTest.test" />
-      <item itemvalue="JUnit.ResourceLoaderTest.test" />
-      <item itemvalue="JUnit.BeanFactoryTest.testLazy" />
-      <item itemvalue="JUnit.BeanFactoryTest.testPreInstantiate" />
+      <item itemvalue="Gradle.BeanFactoryTest.testLazy" />
+      <item itemvalue="Gradle.BeanFactoryTest.testPreInstantiate" />
+      <item itemvalue="Gradle.ResourceLoaderTest.test" />
+      <item itemvalue="Gradle.ApplicationContextTest.test" />
+      <item itemvalue="Gradle.JdkDynamicAopProxyTest.testInterceptor" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BeanFactoryTest.testLazy" />
-        <item itemvalue="JUnit.BeanFactoryTest.testPreInstantiate" />
-        <item itemvalue="JUnit.ResourceLoaderTest.test" />
-        <item itemvalue="JUnit.TestResourceLoader.test" />
-        <item itemvalue="JUnit.XmlBeanDefinitionReaderTest.test" />
+        <item itemvalue="Gradle.JdkDynamicAopProxyTest.testInterceptor" />
+        <item itemvalue="Gradle.ApplicationContextTest.test" />
+        <item itemvalue="Gradle.ResourceLoaderTest.test" />
+        <item itemvalue="Gradle.BeanFactoryTest.testPreInstantiate" />
+        <item itemvalue="Gradle.BeanFactoryTest.testLazy" />
       </list>
     </recent_temporary>
   </component>
@@ -514,6 +724,7 @@
       <workItem from="1545231590595" duration="2519000" />
       <workItem from="1545309865146" duration="1203000" />
       <workItem from="1545320143641" duration="1073000" />
+      <workItem from="1556109500670" duration="4970000" />
     </task>
     <task id="LOCAL-00001" summary="tiny_spring copy to huangyihua">
       <created>1543157023253</created>
@@ -645,18 +856,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ResourceLoaderTest_test - 2018.12.17 at 23h 40m 37s.xml">
-      <configuration name="ResourceLoaderTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ResourceLoaderTest_test - 2018.12.17 at 23h 41m 25s.xml">
-      <configuration name="ResourceLoaderTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ResourceLoaderTest_test - 2018.12.17 at 23h 41m 56s.xml">
-      <configuration name="ResourceLoaderTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestResourceLoader_test - 2018.12.17 at 23h 42m 49s.xml">
-      <configuration name="TestResourceLoader.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ResourceLoaderTest_test - 2018.12.17 at 23h 43m 36s.xml">
       <configuration name="ResourceLoaderTest.test" configurationId="JUnit" />
     </history-entry>
@@ -675,15 +874,26 @@
     <history-entry file="BeanFactoryTest_testLazy - 2018.12.19 at 23h 29m 57s.xml">
       <configuration name="BeanFactoryTest.testLazy" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BeanFactoryTest_testLazy - 2019.04.24 at 21h 12m 44s.xml">
+      <configuration name="BeanFactoryTest.testLazy" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="BeanFactoryTest_testPreInstantiate - 2019.04.24 at 21h 13m 01s.xml">
+      <configuration name="BeanFactoryTest.testPreInstantiate" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ResourceLoaderTest_test - 2019.04.24 at 21h 13m 40s.xml">
+      <configuration name="ResourceLoaderTest.test" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ApplicationContextTest_test - 2019.04.24 at 22h 49m 33s.xml">
+      <configuration name="ApplicationContextTest.test" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27208000" />
+    <option name="totallyTimeSpent" value="32178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3411514" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26279318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -692,8 +902,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3062361" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.38752785" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.311804" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.38752785" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -731,6 +941,18 @@
     <MESSAGE value="step6" />
     <option name="LAST_COMMIT_MESSAGE" value="step6" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/aop/JdkDynamicAopProxyTest.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
@@ -756,297 +978,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step3_inject_bean_with_property/src/main/java/us/codecraft/tinyioc/factory/BeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step3_inject_bean_with_property/src/main/java/us/codecraft/tinyioc/factory/AbstractBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/factory/AutowireCapableBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="87" lean-forward="true" selection-start-line="15" selection-start-column="87" selection-end-line="15" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/test/java/us/codecraft/tinyioc/HelloWorldService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/BeanDefinitionReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/javax/xml/parsers/DocumentBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="119" selection-start-line="119" selection-end-line="119" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/jdk/xml/internal/SecuritySupport.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/jdk/xml/internal/JdkXmlUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/org/w3c/dom/Attr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="190" column="21" selection-start-line="190" selection-start-column="21" selection-end-line="190" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/org/w3c/dom/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="164" column="17" selection-start-line="164" selection-start-column="17" selection-end-line="164" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/instrument/InstrumentationImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="267" selection-start-line="267" selection-end-line="267" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/xml/XmlBeanDefinitionReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/factory/BeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/factory/AbstractBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/AbstractBeanDefinitionReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/test/java/us/codecraft/tinyioc/xml/XmlBeanDefinitionReaderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/test/resources/tinyioc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/test/java/us/codecraft/tinyioc/BeanFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step5_inject_bean_to_bean/src/main/java/us/codecraft/tinyioc/io/Resource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/net/URL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="739">
-          <caret line="977" column="25" selection-start-line="977" selection-start-column="25" selection-end-line="977" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/io/Resource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/test/java/us/codecraft/tinyioc/io/TestResourceLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step5_inject_bean_to_bean/src/test/java/us/codecraft/tinyioc/io/ResourceLoaderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/io/ResourceLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step4_config_beanfactory_with_xml/src/main/java/us/codecraft/tinyioc/io/UrlResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding>
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step5_inject_bean_to_bean/src/main/java/us/codecraft/tinyioc/io/UrlResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
-          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step5_inject_bean_to_bean/src/main/java/us/codecraft/tinyioc/factory/BeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step5_inject_bean_to_bean/src/main/java/us/codecraft/tinyioc/BeanDefinitionReader.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step5_inject_bean_to_bean/src/main/java/us/codecraft/tinyioc/io/ResourceLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step5_inject_bean_to_bean/src/test/resources/tinyioc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="78" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/com/sun/org/apache/xerces/internal/dom/ElementImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="253" selection-start-line="253" selection-end-line="253" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/com/sun/org/apache/xerces/internal/dom/NodeImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="1921" selection-start-line="1921" selection-end-line="1921" />
-          <folding>
-            <element signature="e#72651#72652#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step5_inject_bean_to_bean/src/main/java/us/codecraft/tinyioc/xml/XmlBeanDefinitionReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
-          <folding>
-            <element signature="e#686#687#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step5_inject_bean_to_bean/src/main/java/us/codecraft/tinyioc/AbstractBeanDefinitionReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#662#663#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step5_inject_bean_to_bean/src/test/java/us/codecraft/tinyioc/HelloWorldService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tiny_spring_step5_inject_bean_to_bean/src/test/java/us/codecraft/tinyioc/OutputService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -1143,37 +1074,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step6_invite_application_context/tiny_spring_step6_invite_application_context.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step6_invite_application_context/tiny_spring_step6_invite_application_context.iml" />
     <entry file="file://$PROJECT_DIR$/tiny_spring_step5_inject_bean_to_bean/build.gradle">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step6_invite_application_context/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step6_invite_application_context/src/test/java/us/codecraft/tinyioc/BeanFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiny_spring_step6_invite_application_context/src/test/java/us/codecraft/tinyioc/HelloWorldService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step6_invite_application_context/build.gradle" />
     <entry file="file://$PROJECT_DIR$/tiny_spring_step6_invite_application_context/src/test/resources/tinyioc.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -1200,10 +1105,315 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step6_invite_application_context/src/test/java/us/codecraft/tinyioc/HelloWorldService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step6_invite_application_context/src/test/java/us/codecraft/tinyioc/BeanFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tiny_spring_step6_invite_application_context/src/test/java/us/codecraft/tinyioc/OutputService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="12" column="75" selection-start-line="12" selection-start-column="75" selection-end-line="12" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="158">
+            <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/PropertyValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/PropertyValues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/BeanDefinitionReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/BeanDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/AbstractBeanDefinitionReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/io/Resource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/io/ResourceLoader.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/io/UrlResource.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/BeanReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/BeanFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/beans/io/ResourceLoaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/beans/xml/XmlBeanDefinitionReaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/xml/XmlBeanDefinitionReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1332">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="e#716#717#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/context/ClassPathXmlApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/factory/BeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/context/AbstractApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/factory/AbstractBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/beans/factory/AutowireCapableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/context/ApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/OutputService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/HelloWorldServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding>
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/HelloWorldService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/context/ApplicationContextTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/reflect/InvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/aop/ReflectiveMethodInvocation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/aop/AopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/4a4b6d692e17846a9f3da036438a7ac491d3c814/aopalliance-1.0-sources.jar!/org/aopalliance/intercept/MethodInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/resources/tinyioc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/aop/TargetSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/aop/TimerInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="8" column="58" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/aop/AdvisedSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/main/java/us/codecraft/tinyioc/aop/JdkDynamicAopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy/src/test/java/us/codecraft/tinyioc/aop/JdkDynamicAopProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="31" column="71" lean-forward="true" selection-start-line="31" selection-start-column="71" selection-end-line="31" selection-end-column="100" />
         </state>
       </provider>
     </entry>
@@ -1260,7 +1470,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>tiny_spring_step6_invite_application_context_test|tiny_spring_step6_invite_application_context</last-edited>
+          <last-edited>tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy_test|tiny_spring_step7_method_interceptor_by_jdk_dynamic_proxy|tiny_spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

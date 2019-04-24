@@ -7,6 +7,8 @@ import java.util.Map;
 
 /**
  * 从配置中读取BeanDefinition
+ * 
+ * @author yihua.huang@dianping.com
  */
 public abstract class AbstractBeanDefinitionReader implements BeanDefinitionReader {
 
@@ -15,7 +17,7 @@ public abstract class AbstractBeanDefinitionReader implements BeanDefinitionRead
     private ResourceLoader resourceLoader;
 
     protected AbstractBeanDefinitionReader(ResourceLoader resourceLoader) {
-        this.registry = new HashMap<>();
+        this.registry = new HashMap<String, BeanDefinition>();
         this.resourceLoader = resourceLoader;
     }
 

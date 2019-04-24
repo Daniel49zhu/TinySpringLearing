@@ -6,7 +6,6 @@ import java.lang.reflect.AccessibleObject;
 import java.lang.reflect.Method;
 
 public class ReflectiveMethodInvocation implements MethodInvocation {
-
     private Object target;
 
     private Method method;

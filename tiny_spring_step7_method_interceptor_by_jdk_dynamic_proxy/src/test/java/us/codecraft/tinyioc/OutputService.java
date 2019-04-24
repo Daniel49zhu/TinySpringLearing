@@ -2,7 +2,9 @@ package us.codecraft.tinyioc;
 
 import org.junit.Assert;
 
-
+/**
+ * @author yihua.huang@dianping.com
+ */
 public class OutputService {
 
     private HelloWorldService helloWorldService;

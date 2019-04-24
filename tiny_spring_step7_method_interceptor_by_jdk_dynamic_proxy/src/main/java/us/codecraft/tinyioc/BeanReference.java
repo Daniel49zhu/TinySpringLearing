@@ -1,6 +1,8 @@
 package us.codecraft.tinyioc;
 
-
+/**
+ * @author yihua.huang@dianping.com
+ */
 public class BeanReference {
 
     private String name;

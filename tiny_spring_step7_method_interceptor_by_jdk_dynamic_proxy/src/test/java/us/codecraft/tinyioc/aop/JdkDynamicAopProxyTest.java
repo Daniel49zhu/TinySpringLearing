@@ -5,24 +5,34 @@ import us.codecraft.tinyioc.HelloWorldService;
 import us.codecraft.tinyioc.context.ApplicationContext;
 import us.codecraft.tinyioc.context.ClassPathXmlApplicationContext;
 
-
+/**
+ * @author yihua.huang@dianping.com
+ */
 public class JdkDynamicAopProxyTest {
 
-    @Test
-    public void testInterceptor() throws Exception {
-        ApplicationContext applicationContext = new ClassPathXmlApplicationContext("tinyioc.xml");
-        HelloWorldService helloWorldService = (HelloWorldService) applicationContext.getBean("helloWorldService");
+	@Test
+	public void testInterceptor() throws Exception {
+		// --------- helloWorldService without AOP
+		ApplicationContext applicationContext = new ClassPathXmlApplicationContext("tinyioc.xml");
+		HelloWorldService helloWorldService = (HelloWorldService) applicationContext.getBean("helloWorldService");
+		helloWorldService.helloWorld();
 
-        AdvisedSupport advisedSupport = new AdvisedSupport();
-        TargetSource targetSource = new TargetSource(helloWorldService,HelloWorldService.class);
-        advisedSupport.setTargetSource(targetSource);
+		// --------- helloWorldService with AOP
+		// 1. 设置被代理对象(Joinpoint)
+		AdvisedSupport advisedSupport = new AdvisedSupport();
+		TargetSource targetSource = new TargetSource(helloWorldService, HelloWorldService.class);
+		advisedSupport.setTargetSource(targetSource);
 
-        TimerInterceptor timerInterceptor = new TimerInterceptor();
-        advisedSupport.setMethodInterceptor(timerInterceptor);
+		// 2. 设置拦截器(Advice)
+		TimerInterceptor timerInterceptor = new TimerInterceptor();
+		advisedSupport.setMethodInterceptor(timerInterceptor);
 
-        JdkDynamicAopProxy jdkDynamicAopProxy = new JdkDynamicAopProxy(advisedSupport);
-        HelloWorldService helloWorldService1Proxy = (HelloWorldService) jdkDynamicAopProxy.getProxy();
+		// 3. 创建代理(Proxy)
+		JdkDynamicAopProxy jdkDynamicAopProxy = new JdkDynamicAopProxy(advisedSupport);
+		HelloWorldService helloWorldServiceProxy = (HelloWorldService) jdkDynamicAopProxy.getProxy();
 
-        helloWorldService1Proxy.helloWorld();
-    }
+        // 4. 基于AOP的调用
+        helloWorldServiceProxy.helloWorld();
+
+	}
 }
